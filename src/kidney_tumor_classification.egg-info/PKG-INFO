@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: kidney-tumor-classification
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/satendrasinghcse/kidney-tumor-classification
+Author: satendrasinghcse
+Author-email: satendrasinghcse@gmail.com
+Project-URL: Bug Tracker, https://github.com/satendrasinghcse/kidney-tumor-classification/issues
+
+# kidney-tumor-classification
